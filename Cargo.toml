@@ -1,5 +1,5 @@
 [package]
-name = "audio_metadata_parser"
+name = "audio_metadata"
 version = "0.1.0"
 authors = ["Jacob Haslehurst <jacob@haslehurst.net>"]
 
